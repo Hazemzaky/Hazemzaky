@@ -545,7 +545,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </table>
 
 <br/>
-### 🌍 Open To
+## 🌍 Open To
 
 `✈️ Relocation` · `🏢 Onsite` · `🌍 Remote` · `🌐 Hybrid`
 
