@@ -481,18 +481,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 <tr>
 <td width="33%" align="center">
 
-**☁️ Infrastructure / Cloud**
-`Cloud Architect`
-`DevOps Engineer`
-`SRE`
-`Infrastructure Engineer`
-`Network Engineer`
-`Security Engineer`
-`Distributed Systems Engineer`
-
-</td>
-<td width="33%" align="center">
-
 **👥 Leadership / Management**
 `Technical Lead`
 `Engineering Manager`
@@ -513,6 +501,9 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Smart Manufacturing Engineer`
 `Solutions Engineer`
 `Innovation Engineer`
+
+</td>
+<td width="33%" align="center">
 
 </td>
 </tr>
