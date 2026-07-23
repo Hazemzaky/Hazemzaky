@@ -402,149 +402,122 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 <table>
 <tr>
-<td align="center" width="25%">
-
----
+<td align="center" width="33%">
 
 **🤖 AI / MACHINE LEARNING**
 
----
-
-`AI/ML Engineer`
-`Deep Learning Engineer`
-`Computer Vision Engineer`
-`NLP Engineer`
-`GenAI / LLM Engineer`
-`MLOps Engineer`
-`Applied Scientist`
-`Research Engineer`
+[![AI/ML Engineer](https://img.shields.io/badge/AI_/_ML_Engineer-00D4FF?style=for-the-badge)]()
+[![Deep Learning Engineer](https://img.shields.io/badge/Deep_Learning_Engineer-00D4FF?style=for-the-badge)]()
+[![Computer Vision Engineer](https://img.shields.io/badge/Computer_Vision_Engineer-00D4FF?style=for-the-badge)]()
+[![NLP Engineer](https://img.shields.io/badge/NLP_Engineer-00D4FF?style=for-the-badge)]()
+[![GenAI / LLM Engineer](https://img.shields.io/badge/GenAI_/_LLM_Engineer-00D4FF?style=for-the-badge)]()
+[![MLOps Engineer](https://img.shields.io/badge/MLOps_Engineer-00D4FF?style=for-the-badge)]()
+[![Applied Scientist](https://img.shields.io/badge/Applied_Scientist-00D4FF?style=for-the-badge)]()
+[![Research Engineer](https://img.shields.io/badge/Research_Engineer-00D4FF?style=for-the-badge)]()
 
 </td>
-<td align="center" width="25%">
-
----
+<td align="center" width="33%">
 
 **💻 SOFTWARE / SYSTEMS**
 
----
-
-`Software Engineer`
-`Senior Software Engineer`
-`Staff / Principal Engineer`
-`Full-Stack Engineer`
-`Backend Engineer`
-`Systems Architect`
-`Solutions Architect`
-`Platform Engineer`
+[![Software Engineer](https://img.shields.io/badge/Software_Engineer-FF6D00?style=for-the-badge)]()
+[![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-FF6D00?style=for-the-badge)]()
+[![Staff / Principal Engineer](https://img.shields.io/badge/Staff_/_Principal_Engineer-FF6D00?style=for-the-badge)]()
+[![Full-Stack Engineer](https://img.shields.io/badge/Full_Stack_Engineer-FF6D00?style=for-the-badge)]()
+[![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-FF6D00?style=for-the-badge)]()
+[![Systems Architect](https://img.shields.io/badge/Systems_Architect-FF6D00?style=for-the-badge)]()
+[![Solutions Architect](https://img.shields.io/badge/Solutions_Architect-FF6D00?style=for-the-badge)]()
+[![Platform Engineer](https://img.shields.io/badge/Platform_Engineer-FF6D00?style=for-the-badge)]()
 
 </td>
-<td align="center" width="25%">
-
----
+<td align="center" width="33%">
 
 **🔌 IoT / EMBEDDED**
 
----
-
-`Embedded Systems Engineer`
-`Edge AI Engineer`
-`Firmware Engineer`
-`IoT Engineer`
-`Sensor Fusion Engineer`
-`IoT Solutions Architect`
-`Industrial IoT Engineer`
-`Edge Computing Engineer`
-
-</td>
-<td align="center" width="25%">
-
----
-
-**🤖 ROBOTICS / AUTONOMOUS**
-
----
-
-`Robotics Engineer`
-`Autonomous Systems Engineer`
-`Robotics Perception Engineer`
-`SLAM Engineer`
-`Motion Planning Engineer`
-`Robotics Software Engineer`
+[![Embedded Systems Engineer](https://img.shields.io/badge/Embedded_Systems_Engineer-00C853?style=for-the-badge)]()
+[![Edge AI Engineer](https://img.shields.io/badge/Edge_AI_Engineer-00C853?style=for-the-badge)]()
+[![Firmware Engineer](https://img.shields.io/badge/Firmware_Engineer-00C853?style=for-the-badge)]()
+[![IoT Engineer](https://img.shields.io/badge/IoT_Engineer-00C853?style=for-the-badge)]()
+[![Sensor Fusion Engineer](https://img.shields.io/badge/Sensor_Fusion_Engineer-00C853?style=for-the-badge)]()
+[![IoT Solutions Architect](https://img.shields.io/badge/IoT_Solutions_Architect-00C853?style=for-the-badge)]()
+[![Industrial IoT Engineer](https://img.shields.io/badge/Industrial_IoT_Engineer-00C853?style=for-the-badge)]()
+[![Edge Computing Engineer](https://img.shields.io/badge/Edge_Computing_Engineer-00C853?style=for-the-badge)]()
 
 </td>
 </tr>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
----
+**🤖 ROBOTICS / AUTONOMOUS**
+
+[![Robotics Engineer](https://img.shields.io/badge/Robotics_Engineer-E91E63?style=for-the-badge)]()
+[![Autonomous Systems Engineer](https://img.shields.io/badge/Autonomous_Systems_Engineer-E91E63?style=for-the-badge)]()
+[![Robotics Perception Engineer](https://img.shields.io/badge/Robotics_Perception_Engineer-E91E63?style=for-the-badge)]()
+[![SLAM Engineer](https://img.shields.io/badge/SLAM_Engineer-E91E63?style=for-the-badge)]()
+[![Motion Planning Engineer](https://img.shields.io/badge/Motion_Planning_Engineer-E91E63?style=for-the-badge)]()
+[![Robotics Software Engineer](https://img.shields.io/badge/Robotics_Software_Engineer-E91E63?style=for-the-badge)]()
+
+</td>
+<td align="center" width="33%">
 
 **⚡ HARDWARE / SEMICONDUCTOR**
 
----
-
-`Hardware Engineer`
-`VLSI Design Engineer`
-`ASIC Design Engineer`
-`FPGA Engineer`
-`AI Accelerator Engineer`
-`Chip Design Engineer`
-`Semiconductor Engineer`
+[![Hardware Engineer](https://img.shields.io/badge/Hardware_Engineer-9C27B0?style=for-the-badge)]()
+[![VLSI Design Engineer](https://img.shields.io/badge/VLSI_Design_Engineer-9C27B0?style=for-the-badge)]()
+[![ASIC Design Engineer](https://img.shields.io/badge/ASIC_Design_Engineer-9C27B0?style=for-the-badge)]()
+[![FPGA Engineer](https://img.shields.io/badge/FPGA_Engineer-9C27B0?style=for-the-badge)]()
+[![AI Accelerator Engineer](https://img.shields.io/badge/AI_Accelerator_Engineer-9C27B0?style=for-the-badge)]()
+[![Chip Design Engineer](https://img.shields.io/badge/Chip_Design_Engineer-9C27B0?style=for-the-badge)]()
+[![Semiconductor Engineer](https://img.shields.io/badge/Semiconductor_Engineer-9C27B0?style=for-the-badge)]()
 
 </td>
-<td align="center" width="25%">
-
----
+<td align="center" width="33%">
 
 **📊 DATA / RESEARCH**
 
----
-
-`Data Engineer`
-`Data Scientist`
-`Applied Research Scientist`
-`Research Scientist`
-`Signal Processing Engineer`
-`Telecommunications Engineer`
+[![Data Engineer](https://img.shields.io/badge/Data_Engineer-FF9800?style=for-the-badge)]()
+[![Data Scientist](https://img.shields.io/badge/Data_Scientist-FF9800?style=for-the-badge)]()
+[![Applied Research Scientist](https://img.shields.io/badge/Applied_Research_Scientist-FF9800?style=for-the-badge)]()
+[![Research Scientist](https://img.shields.io/badge/Research_Scientist-FF9800?style=for-the-badge)]()
+[![Signal Processing Engineer](https://img.shields.io/badge/Signal_Processing_Engineer-FF9800?style=for-the-badge)]()
+[![Telecommunications Engineer](https://img.shields.io/badge/Telecommunications_Engineer-FF9800?style=for-the-badge)]()
 
 </td>
-<td align="center" width="25%">
-
----
+</tr>
+<tr>
+<td align="center" width="33%">
 
 **👥 LEADERSHIP**
 
----
-
-`Technical Lead`
-`Engineering Manager`
-`Team Lead`
-`Tech Lead`
-`Technical Program Manager`
-`Project Manager`
-`Scrum Master`
+[![Technical Lead](https://img.shields.io/badge/Technical_Lead-F44336?style=for-the-badge)]()
+[![Engineering Manager](https://img.shields.io/badge/Engineering_Manager-F44336?style=for-the-badge)]()
+[![Team Lead](https://img.shields.io/badge/Team_Lead-F44336?style=for-the-badge)]()
+[![Tech Lead](https://img.shields.io/badge/Tech_Lead-F44336?style=for-the-badge)]()
+[![Technical Program Manager](https://img.shields.io/badge/Technical_Program_Manager-F44336?style=for-the-badge)]()
+[![Project Manager](https://img.shields.io/badge/Project_Manager-F44336?style=for-the-badge)]()
+[![Scrum Master](https://img.shields.io/badge/Scrum_Master-F44336?style=for-the-badge)]()
 
 </td>
-<td align="center" width="25%">
-
----
+<td align="center" width="33%">
 
 **🎯 OTHER**
 
----
+[![Digital Twin Engineer](https://img.shields.io/badge/Digital_Twin_Engineer-607D8B?style=for-the-badge)]()
+[![Simulation Engineer](https://img.shields.io/badge/Simulation_Engineer-607D8B?style=for-the-badge)]()
+[![Automation Engineer](https://img.shields.io/badge/Automation_Engineer-607D8B?style=for-the-badge)]()
+[![Control Systems Engineer](https://img.shields.io/badge/Control_Systems_Engineer-607D8B?style=for-the-badge)]()
+[![Smart Manufacturing Engineer](https://img.shields.io/badge/Smart_Manufacturing_Engineer-607D8B?style=for-the-badge)]()
+[![Solutions Engineer](https://img.shields.io/badge/Solutions_Engineer-607D8B?style=for-the-badge)]()
+[![Innovation Engineer](https://img.shields.io/badge/Innovation_Engineer-607D8B?style=for-the-badge)]()
 
-`Digital Twin Engineer`
-`Simulation Engineer`
-`Automation Engineer`
-`Control Systems Engineer`
-`Smart Manufacturing Engineer`
-`Solutions Engineer`
-`Innovation Engineer`
+</td>
+<td align="center" width="33%">
 
 </td>
 </tr>
 </table>
 
-
+<br/>
 
 ### 🌍 Open To
 
