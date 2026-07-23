@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Premium Gradient Banner SVG -->
-<img src="https://svgshare.com/i/16gX.svg" width="100%" alt="Banner"/>
+<!-- Premium Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=120&section=header" width="100%" alt="Banner"/>
 
 </div>
 
@@ -9,12 +9,10 @@
 
 <div align="center">
 
-<!-- Name with animated gradient -->
-<h1 align="center">
+<!-- Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=HAZEM+NABIL+ZAKY" alt="Name" />
-</h1>
 
-<!-- Professional Title -->
+<!-- Title -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=FF6D00&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=30&lines=Software+%26+AI+Engineer+%7C+Distributed+Systems+%7C+Edge+AI+%7C+IoT+Architect" alt="Title" />
 
 </div>
@@ -23,6 +21,7 @@
 
 <div align="center">
 
+<!-- Credentials -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=2000&color=00C853&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=25&lines=3.5%2B+Years+%7C+ABET+Accredited+%7C+11%2B+Engineers+Led+%7C+4+Q1+Papers+%7C+Patent+Filed" alt="Credentials" />
 
 </div>
@@ -43,15 +42,14 @@
 
 <br/>
 
-<!-- Divider -->
+<!-- Footer Banner -->
 <div align="center">
 
-<img src="https://svgshare.com/i/16gX.svg" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4FF,100:0d1117&height=60&section=footer" width="100%" alt="Footer"/>
 
 </div>
 
 ---
-
 ## 🔥 Who Am I?
 
 I engineer at the **convergence of high-throughput software engineering, multi-modal artificial intelligence, and hardware-software IoT architectures**. My career is focused on building resilient distributed systems, real-time telemetry pipelines, and edge AI solutions that translate complex physical sensor data into high-value operational automation.
