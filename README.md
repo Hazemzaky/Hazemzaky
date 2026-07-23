@@ -398,6 +398,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 ## 🎯 Open To Opportunities
 
+
 <div align="center">
 
 <table>
@@ -516,8 +517,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </td>
 </tr>
 </table>
-
-<br/>
 
 ### 🌍 Open To
 
