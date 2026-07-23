@@ -402,9 +402,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**🤖 AI / Machine Learning**
+---
+
+**🤖 AI / MACHINE LEARNING**
+
+---
+
 `AI/ML Engineer`
 `Deep Learning Engineer`
 `Computer Vision Engineer`
@@ -415,9 +420,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Research Engineer`
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**💻 Software / Systems**
+---
+
+**💻 SOFTWARE / SYSTEMS**
+
+---
+
 `Software Engineer`
 `Senior Software Engineer`
 `Staff / Principal Engineer`
@@ -428,9 +438,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Platform Engineer`
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**🔌 IoT / Embedded**
+---
+
+**🔌 IoT / EMBEDDED**
+
+---
+
 `Embedded Systems Engineer`
 `Edge AI Engineer`
 `Firmware Engineer`
@@ -441,11 +456,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Edge Computing Engineer`
 
 </td>
-</tr>
-<tr>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**🤖 Robotics / Autonomous**
+---
+
+**🤖 ROBOTICS / AUTONOMOUS**
+
+---
+
 `Robotics Engineer`
 `Autonomous Systems Engineer`
 `Robotics Perception Engineer`
@@ -454,9 +472,16 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Robotics Software Engineer`
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td align="center" width="25%">
 
-**⚡ Hardware / Semiconductor**
+---
+
+**⚡ HARDWARE / SEMICONDUCTOR**
+
+---
+
 `Hardware Engineer`
 `VLSI Design Engineer`
 `ASIC Design Engineer`
@@ -466,9 +491,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Semiconductor Engineer`
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**📊 Data / Research**
+---
+
+**📊 DATA / RESEARCH**
+
+---
+
 `Data Engineer`
 `Data Scientist`
 `Applied Research Scientist`
@@ -477,11 +507,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Telecommunications Engineer`
 
 </td>
-</tr>
-<tr>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**👥 Leadership / Management**
+---
+
+**👥 LEADERSHIP**
+
+---
+
 `Technical Lead`
 `Engineering Manager`
 `Team Lead`
@@ -491,9 +524,14 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Scrum Master`
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-**🎯 Other**
+---
+
+**🎯 OTHER**
+
+---
+
 `Digital Twin Engineer`
 `Simulation Engineer`
 `Automation Engineer`
@@ -503,15 +541,13 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Innovation Engineer`
 
 </td>
-<td width="33%" align="center">
-
-</td>
 </tr>
 </table>
 
+<br/>
 ### 🌍 Open To
 
-`Relocation` · `Onsite` · `Remote` · `Hybrid`
+`✈️ Relocation` · `🏢 Onsite` · `🌍 Remote` · `🌐 Hybrid`
 
 </div>
 
