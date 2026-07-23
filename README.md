@@ -544,17 +544,16 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </tr>
 </table>
 
-<br/>
-## 🌍 Open To
+### 🌍 Open To
 
-`✈️ Relocation` · `🏢 Onsite` · `🌍 Remote` · `🌐 Hybrid`
+**✈️ Relocation** · **🏢 Onsite**· **🌐 Hybrid** · **🌍 Remote** 
 
 </div>
 
 ---
 
 ### 🌍 Geographic Markets
-🌐 Remote · 🌐 Hybrid · 🌍 Middle East · 🌎 North America · 🌍 Europe · 🌏 Oceania · 🌎 South America · 🌏 Asia 
+**🌐 Remote** · **🌐 Hybrid** · **🌍 Middle East** · **🌎 North America** · **🌍 Europe** · **🌏 Oceania** · **🌎 South America** · **🌏 Asia** 
 
 </div>
 
