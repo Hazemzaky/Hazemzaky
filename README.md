@@ -574,6 +574,9 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 <a href="mailto:hazimzaki@hotmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://your-portfolio-url.com">
+<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
