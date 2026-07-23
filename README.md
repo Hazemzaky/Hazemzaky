@@ -9,9 +9,18 @@
 
 <div align="center">
 
-# **HAZEM NABIL ZAKY**
+<!-- Colored Name -->
+<img src="https://img.shields.io/badge/HAZEM_NABIL_ZAKY-00D4FF?style=for-the-badge&labelColor=0d1117&fontSize=40&font=ubuntu" width="600" alt="Name"/>
 
-### `Software & AI Engineer | Distributed Systems | Edge AI | IoT Architect`
+<br/>
+
+<!-- Multi-Color Job Title -->
+<img src="https://img.shields.io/badge/Software_&_AI_Engineer-FF6D00?style=for-the-badge&labelColor=0d1117&fontSize=16&font=ubuntu" alt="Title1"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-00D4FF?style=for-the-badge&labelColor=0d1117&fontSize=16&font=ubuntu" alt="Title2"/>
+<img src="https://img.shields.io/badge/Edge_AI-00C853?style=for-the-badge&labelColor=0d1117&fontSize=16&font=ubuntu" alt="Title3"/>
+<img src="https://img.shields.io/badge/IoT_Architect-9C27B0?style=for-the-badge&labelColor=0d1117&fontSize=16&font=ubuntu" alt="Title4"/>
+
+<br/>
 
 ---
 
