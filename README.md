@@ -403,7 +403,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **🤖 AI / MACHINE LEARNING**
 
@@ -415,9 +415,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![MLOps Engineer](https://img.shields.io/badge/MLOps_Engineer-00D4FF?style=for-the-badge)]()
 [![Applied Scientist](https://img.shields.io/badge/Applied_Scientist-00D4FF?style=for-the-badge)]()
 [![Research Engineer](https://img.shields.io/badge/Research_Engineer-00D4FF?style=for-the-badge)]()
-
-</td>
-<td align="center" width="33%">
 
 **💻 SOFTWARE / SYSTEMS**
 
@@ -431,7 +428,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Platform Engineer](https://img.shields.io/badge/Platform_Engineer-FF6D00?style=for-the-badge)]()
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 **🔌 IoT / EMBEDDED**
 
@@ -444,11 +441,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Industrial IoT Engineer](https://img.shields.io/badge/Industrial_IoT_Engineer-00C853?style=for-the-badge)]()
 [![Edge Computing Engineer](https://img.shields.io/badge/Edge_Computing_Engineer-00C853?style=for-the-badge)]()
 
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
 **🤖 ROBOTICS / AUTONOMOUS**
 
 [![Robotics Engineer](https://img.shields.io/badge/Robotics_Engineer-E91E63?style=for-the-badge)]()
@@ -459,7 +451,9 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Robotics Software Engineer](https://img.shields.io/badge/Robotics_Software_Engineer-E91E63?style=for-the-badge)]()
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 
 **⚡ HARDWARE / SEMICONDUCTOR**
 
@@ -471,9 +465,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Chip Design Engineer](https://img.shields.io/badge/Chip_Design_Engineer-9C27B0?style=for-the-badge)]()
 [![Semiconductor Engineer](https://img.shields.io/badge/Semiconductor_Engineer-9C27B0?style=for-the-badge)]()
 
-</td>
-<td align="center" width="33%">
-
 **📊 DATA / RESEARCH**
 
 [![Data Engineer](https://img.shields.io/badge/Data_Engineer-FF9800?style=for-the-badge)]()
@@ -484,9 +475,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Telecommunications Engineer](https://img.shields.io/badge/Telecommunications_Engineer-FF9800?style=for-the-badge)]()
 
 </td>
-</tr>
-<tr>
-<td align="center" style="width: 50%;">
+<td align="center" width="50%">
 
 **👥 LEADERSHIP**
 
@@ -497,9 +486,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Technical Program Manager](https://img.shields.io/badge/Technical_Program_Manager-F44336?style=for-the-badge)]()
 [![Project Manager](https://img.shields.io/badge/Project_Manager-F44336?style=for-the-badge)]()
 [![Scrum Master](https://img.shields.io/badge/Scrum_Master-F44336?style=for-the-badge)]()
-
-</td>
-<td align="center" style="width: 50%;">
 
 **🎯 OTHER**
 
@@ -514,7 +500,6 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </td>
 </tr>
 </table>
-
 ### 🌍 Open To
 
 [![Relocation](https://img.shields.io/badge/✈️-Relocation-E91E63?style=for-the-badge)]() · [![Onsite](https://img.shields.io/badge/🏢-Onsite-00C853?style=for-the-badge)]() · [![Hybrid](https://img.shields.io/badge/🌐-Hybrid-FF5722?style=for-the-badge)]() · [![Remote](https://img.shields.io/badge/🌍-Remote-2196F3?style=for-the-badge)]()
