@@ -5,22 +5,28 @@
 
 <br/>
 
-<!-- Elite Status Badges -->
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/STATUS-ELITE%20ENGINEER-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Elite Engineer"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/ABET-ACCREDITED-E5A100?style=for-the-badge&logo=graduationcap&logoColor=white" alt="ABET Accredited"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/EXPERIENCE-3.5%2B%20YEARS-00C853?style=for-the-badge&logo=clock&logoColor=white" alt="Experience"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/TEAMS%20LED-11%2B%20ENGINEERS-FF6D00?style=for-the-badge&logo=people-arrows&logoColor=white" alt="Teams Led"/>
-</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=40&lines=Software+%26+AI+Engineer+%7C+3.5%2B+Years+Experience+%7C+ABET+Accredited+%7C+Teams+Led" alt="Professional Summary" />
+
+</div>
 
 <br/>
 
+<div align="center">
+
+[![Software Engineering](https://img.shields.io/badge/Software_Engineering-00D4FF?style=for-the-badge&logo=coding&logoColor=white)]()
+[![AI / ML](https://img.shields.io/badge/AI_/_ML-FF6D00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![IoT & Embedded](https://img.shields.io/badge/IoT_&_Embedded-00C853?style=for-the-badge&logo=micropython&logoColor=white)]()
+[![Semiconductor](https://img.shields.io/badge/Semiconductor-9C27B0?style=for-the-badge&logo=cpu&logoColor=white)]()
+[![Robotics](https://img.shields.io/badge/Robotics-E91E63?style=for-the-badge&logo=robot&logoColor=white)]()
+[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF9800?style=for-the-badge&logo=server&logoColor=white)]()
+
+</div>
+
+</div>
+
+---
 <!-- Core Domain Badges -->
 <a href="https://github.com/hazemzaky">
 <img src="https://img.shields.io/badge/Software_Engineering-00D4FF?style=flat-square&logo=coding&logoColor=white" alt="Software Engineering"/>
