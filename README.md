@@ -9,20 +9,13 @@
 
 <div align="center">
 
-<!-- Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=HAZEM+NABIL+ZAKY" alt="Name" />
+# **HAZEM NABIL ZAKY**
 
-<!-- Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=FF6D00&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=30&lines=Software+%26+AI+Engineer+%7C+Distributed+Systems+%7C+Edge+AI+%7C+IoT+Architect" alt="Title" />
+### `Software & AI Engineer | Distributed Systems | Edge AI | IoT Architect`
 
-</div>
+---
 
-<br/>
-
-<div align="center">
-
-<!-- Credentials -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=2000&color=00C853&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=25&lines=3.5%2B+Years+%7C+ABET+Accredited+%7C+11%2B+Engineers+Led+%7C+4+Q1+Papers+%7C+Patent+Filed" alt="Credentials" />
+**3.5+ Years Experience** · **ABET Accredited** · **11+ Engineers Led** · **4 Q1 Papers** · **Patent Filed**
 
 </div>
 
