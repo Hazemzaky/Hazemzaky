@@ -486,7 +486,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" style="width: 50%;">
 
 **👥 LEADERSHIP**
 
@@ -499,7 +499,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 [![Scrum Master](https://img.shields.io/badge/Scrum_Master-F44336?style=for-the-badge)]()
 
 </td>
-<td align="center" width="50%">
+<td align="center" style="width: 50%;">
 
 **🎯 OTHER**
 
