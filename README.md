@@ -400,7 +400,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 `Software Engineer` · `AI/ML Engineer` · `Embedded Systems Engineer` · `Systems Architect` · `Edge AI Architect` · `IoT Engineer` · `Robotics Engineer` · `Data Scientist` · `Full-Stack Engineer`
 
 ### 🌍 Geographic Markets
-`🇺🇸 United States` · `🇨🇦 Canada` · `🇬🇧 United Kingdom` · `🇩🇪 Germany` · `🇳🇱 Netherlands` · `🇨🇭 Switzerland` · `🇦🇺 Australia` · `🇳🇿 New Zealand` · `🇯🇵 Japan` · `🇰🇷 South Korea` · `🇸🇬 Singapore` · `🇳🇴 Nordic Countries` · `🌎 Remote-First`
+🌐 Remote · 🌐 Hybrid · 🌍 Middle East · 🌎 North America · 🌍 Europe · 🌏 Oceania · 🌎 South America · 🌏 Asia 
 
 </div>
 
@@ -410,13 +410,13 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 <div align="center">
 
-<a href="https://linkedin.com/in/hazemnabil-zaky">
+<a href="https://www.linkedin.com/in/hazemnzaky/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/hazemzaky">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:hazem.zaky@example.com">
+<a href="mailto:hazimzaki@hotmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
