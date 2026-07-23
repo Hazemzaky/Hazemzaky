@@ -500,7 +500,7 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </td>
 </tr>
 </table>
-### 🌍 Open To
+### **🌍 Open To**
 
 [![Relocation](https://img.shields.io/badge/✈️-Relocation-E91E63?style=for-the-badge)]() · [![Onsite](https://img.shields.io/badge/🏢-Onsite-00C853?style=for-the-badge)]() · [![Hybrid](https://img.shields.io/badge/🌐-Hybrid-FF5722?style=for-the-badge)]() · [![Remote](https://img.shields.io/badge/🌍-Remote-2196F3?style=for-the-badge)]()
 
