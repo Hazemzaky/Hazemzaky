@@ -546,14 +546,15 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 ### 🌍 Open To
 
-**✈️ Relocation** · **🏢 Onsite**· **🌐 Hybrid** · **🌍 Remote** 
+<span style="color: #E91E63;">**✈️ Relocation**</span> · <span style="color: #00C853;">**🏢 Onsite**</span> · <span style="color: #FF5722;">**🌐 Hybrid**</span> · <span style="color: #2196F3;">**🌍 Remote**</span>
 
 </div>
 
 ---
 
 ### 🌍 Geographic Markets
-**🌐 Remote** · **🌐 Hybrid** · **🌍 Middle East** · **🌎 North America** · **🌍 Europe** · **🌏 Oceania** · **🌎 South America** · **🌏 Asia** 
+
+<span style="color: #2196F3;">**🌐 Remote**</span> · <span style="color: #FF5722;">**🌐 Hybrid**</span> · <span style="color: #F44336;">**🌍 Middle East**</span> · <span style="color: #FF6D00;">**🌎 North America**</span> · <span style="color: #00D4FF;">**🌍 Europe**</span> · <span style="color: #9C27B0;">**🌏 Oceania**</span> · <span style="color: #00C853;">**🌎 South America**</span> · <span style="color: #FF9800;">**🌏 Asia**</span>
 
 </div>
 
