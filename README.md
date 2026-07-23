@@ -396,8 +396,135 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 
 <div align="center">
 
-### 🎯 Target Roles
-`Software Engineer` · `AI/ML Engineer` · `Embedded Systems Engineer` · `Systems Architect` · `Edge AI Architect` · `IoT Engineer` · `Robotics Engineer` · `Data Scientist` · `Full-Stack Engineer`
+## 🎯 Open To Opportunities
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🤖 AI / Machine Learning**
+`AI/ML Engineer`
+`Deep Learning Engineer`
+`Computer Vision Engineer`
+`NLP Engineer`
+`GenAI / LLM Engineer`
+`MLOps Engineer`
+`Applied Scientist`
+`Research Engineer`
+
+</td>
+<td width="33%" align="center">
+
+**💻 Software / Systems**
+`Software Engineer`
+`Senior Software Engineer`
+`Staff / Principal Engineer`
+`Full-Stack Engineer`
+`Backend Engineer`
+`Systems Architect`
+`Solutions Architect`
+`Platform Engineer`
+
+</td>
+<td width="33%" align="center">
+
+**🔌 IoT / Embedded**
+`Embedded Systems Engineer`
+`Edge AI Engineer`
+`Firmware Engineer`
+`IoT Engineer`
+`Sensor Fusion Engineer`
+`IoT Solutions Architect`
+`Industrial IoT Engineer`
+`Edge Computing Engineer`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**🤖 Robotics / Autonomous**
+`Robotics Engineer`
+`Autonomous Systems Engineer`
+`Robotics Perception Engineer`
+`SLAM Engineer`
+`Motion Planning Engineer`
+`Robotics Software Engineer`
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Hardware / Semiconductor**
+`Hardware Engineer`
+`VLSI Design Engineer`
+`ASIC Design Engineer`
+`FPGA Engineer`
+`AI Accelerator Engineer`
+`Chip Design Engineer`
+`Semiconductor Engineer`
+
+</td>
+<td width="33%" align="center">
+
+**📊 Data / Research**
+`Data Engineer`
+`Data Scientist`
+`Applied Research Scientist`
+`Research Scientist`
+`Signal Processing Engineer`
+`Telecommunications Engineer`
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**☁️ Infrastructure / Cloud**
+`Cloud Architect`
+`DevOps Engineer`
+`SRE`
+`Infrastructure Engineer`
+`Network Engineer`
+`Security Engineer`
+`Distributed Systems Engineer`
+
+</td>
+<td width="33%" align="center">
+
+**👥 Leadership / Management**
+`Technical Lead`
+`Engineering Manager`
+`Team Lead`
+`Tech Lead`
+`Technical Program Manager`
+`Project Manager`
+`Scrum Master`
+
+</td>
+<td width="33%" align="center">
+
+**🎯 Other**
+`Digital Twin Engineer`
+`Simulation Engineer`
+`Automation Engineer`
+`Control Systems Engineer`
+`Smart Manufacturing Engineer`
+`Solutions Engineer`
+`Innovation Engineer`
+
+</td>
+</tr>
+</table>
+
+### 🌍 Open To
+
+`Relocation` · `Onsite` · `Remote` · `Hybrid`
+
+</div>
+
+---
 
 ### 🌍 Geographic Markets
 🌐 Remote · 🌐 Hybrid · 🌍 Middle East · 🌎 North America · 🌍 Europe · 🌏 Oceania · 🌎 South America · 🌏 Asia 
