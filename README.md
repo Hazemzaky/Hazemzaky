@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- Animated Header SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=180&lines=%3E+HAZEM+NABIL+ZAKY;Software+%26+AI+Engineer+%7C+Distributed+Systems+%7C+Edge+AI+%7C+IoT+Architect;Building+Intelligent+Systems+at+Scale+%E2%9A%A1" alt="Typing SVG" />
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=40&lines=Software+%26+AI+Engineer+%7C+3.5%2B+Years+Experience+%7C+ABET+Accredited+%7C+Teams+Led" alt="Professional Summary" />
+<!-- Premium Gradient Banner SVG -->
+<img src="https://svgshare.com/i/16gX.svg" width="100%" alt="Banner"/>
 
 </div>
 
@@ -15,37 +9,44 @@
 
 <div align="center">
 
-[![Software Engineering](https://img.shields.io/badge/Software_Engineering-00D4FF?style=for-the-badge&logo=coding&logoColor=white)]()
-[![AI / ML](https://img.shields.io/badge/AI_/_ML-FF6D00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![IoT & Embedded](https://img.shields.io/badge/IoT_&_Embedded-00C853?style=for-the-badge&logo=micropython&logoColor=white)]()
-[![Semiconductor](https://img.shields.io/badge/Semiconductor-9C27B0?style=for-the-badge&logo=cpu&logoColor=white)]()
-[![Robotics](https://img.shields.io/badge/Robotics-E91E63?style=for-the-badge&logo=robot&logoColor=white)]()
-[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF9800?style=for-the-badge&logo=server&logoColor=white)]()
+<!-- Name with animated gradient -->
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=HAZEM+NABIL+ZAKY" alt="Name" />
+</h1>
+
+<!-- Professional Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=FF6D00&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=30&lines=Software+%26+AI+Engineer+%7C+Distributed+Systems+%7C+Edge+AI+%7C+IoT+Architect" alt="Title" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=2000&color=00C853&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=25&lines=3.5%2B+Years+%7C+ABET+Accredited+%7C+11%2B+Engineers+Led+%7C+4+Q1+Papers+%7C+Patent+Filed" alt="Credentials" />
+
 </div>
 
----
-<!-- Core Domain Badges -->
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/Software_Engineering-00D4FF?style=flat-square&logo=coding&logoColor=white" alt="Software Engineering"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/AI_/_ML-FF6D00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/IoT_&_Embedded-00C853?style=flat-square&logo=micropython&logoColor=white" alt="IoT & Embedded"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/Semiconductor-9C27B0?style=flat-square&logo=cpu&logoColor=white" alt="Semiconductor"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/Robotics-E91E63?style=flat-square&logo=robot&logoColor=white" alt="Robotics"/>
-</a>
-<a href="https://github.com/hazemzaky">
-<img src="https://img.shields.io/badge/Distributed_Systems-FF9800?style=flat-square&logo=server&logoColor=white" alt="Distributed Systems"/>
-</a>
+<br/>
+
+<!-- Domain Badges -->
+<div align="center">
+
+[![Software Engineering](https://img.shields.io/badge/Software_Engineering-00D4FF?style=for-the-badge&logo=coding&logoColor=white&logoWidth=20)]()
+[![AI / ML](https://img.shields.io/badge/AI_/_ML-FF6D00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=20)]()
+[![IoT & Embedded](https://img.shields.io/badge/IoT_&_Embedded-00C853?style=for-the-badge&logo=micropython&logoColor=white&logoWidth=20)]()
+[![Semiconductor](https://img.shields.io/badge/Semiconductor-9C27B0?style=for-the-badge&logo=cpu&logoColor=white&logoWidth=20)]()
+[![Robotics](https://img.shields.io/badge/Robotics-E91E63?style=for-the-badge&logo=robot&logoColor=white&logoWidth=20)]()
+[![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF9800?style=for-the-badge&logo=server&logoColor=white&logoWidth=20)]()
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<div align="center">
+
+<img src="https://svgshare.com/i/16gX.svg" width="100%" alt="Divider"/>
 
 </div>
 
