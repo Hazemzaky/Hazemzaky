@@ -544,17 +544,18 @@ Medical Workflow Intelligence | Supply Chain Digital Twin | Geological Discovery
 </tr>
 </table>
 
+
+
 ### 🌍 Open To
 
-<span style="color: #E91E63;">**✈️ Relocation**</span> · <span style="color: #00C853;">**🏢 Onsite**</span> · <span style="color: #FF5722;">**🌐 Hybrid**</span> · <span style="color: #2196F3;">**🌍 Remote**</span>
+[![Relocation](https://img.shields.io/badge/✈️-Relocation-E91E63?style=for-the-badge)]() · [![Onsite](https://img.shields.io/badge/🏢-Onsite-00C853?style=for-the-badge)]() · [![Hybrid](https://img.shields.io/badge/🌐-Hybrid-FF5722?style=for-the-badge)]() · [![Remote](https://img.shields.io/badge/🌍-Remote-2196F3?style=for-the-badge)]()
 
 </div>
 
 ---
-
 ### 🌍 Geographic Markets
 
-<span style="color: #2196F3;">**🌐 Remote**</span> · <span style="color: #FF5722;">**🌐 Hybrid**</span> · <span style="color: #F44336;">**🌍 Middle East**</span> · <span style="color: #FF6D00;">**🌎 North America**</span> · <span style="color: #00D4FF;">**🌍 Europe**</span> · <span style="color: #9C27B0;">**🌏 Oceania**</span> · <span style="color: #00C853;">**🌎 South America**</span> · <span style="color: #FF9800;">**🌏 Asia**</span>
+[![Remote](https://img.shields.io/badge/🌐-Remote-2196F3?style=for-the-badge)]() · [![Hybrid](https://img.shields.io/badge/🌐-Hybrid-FF5722?style=for-the-badge)]() · [![Middle East](https://img.shields.io/badge/🌍-Middle_East-F44336?style=for-the-badge)]() · [![North America](https://img.shields.io/badge/🌎-North_America-FF6D00?style=for-the-badge)]() · [![Europe](https://img.shields.io/badge/🌍-Europe-00D4FF?style=for-the-badge)]() · [![Oceania](https://img.shields.io/badge/🌏-Oceania-9C27B0?style=for-the-badge)]() · [![South America](https://img.shields.io/badge/🌎-South_America-00C853?style=for-the-badge)]() · [![Asia](https://img.shields.io/badge/🌏-Asia-FF9800?style=for-the-badge)]()
 
 </div>
 
